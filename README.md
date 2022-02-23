@@ -4,6 +4,7 @@
 I'm learning about GitHub and Markdown.
 
 Resources
+* https://my.ine.com/bootcamps/a8897eda-4c14-464b-b40a-0b6aaf25afa7
 * https://hackmd.io/
 * https://www.markdownguide.org/cheat-sheet/
 * https://visualstudiomagazine.com/articles/2021/08/31/github-vs-code.aspx
