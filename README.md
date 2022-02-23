@@ -7,7 +7,7 @@ Resources
 * [INE Bootcamp: GitHub for Everyone](https://my.ine.com/bootcamps/a8897eda-4c14-464b-b40a-0b6aaf25afa7)
 * [HackMD collaborative markdown editor](https://hackmd.io/)
 * [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
-* [Edit GitHub files in VS Code in one keystroke](https://visualstudiomagazine.com/articles/2021/08/31/github-vs-code.aspx)
+* [GitHub keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 * [How to get rid of .DS_Store files in git repositories](https://code.likeagirl.io/how-to-get-rid-of-ds-store-and-node-modules-in-git-repositories-d37b8a391247)
 
 <!--
