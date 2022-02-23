@@ -7,6 +7,7 @@ Resources
 * https://hackmd.io/
 * https://www.markdownguide.org/cheat-sheet/
 * https://visualstudiomagazine.com/articles/2021/08/31/github-vs-code.aspx
+* https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository
 
 <!--
 **mattbogenberger/mattbogenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
