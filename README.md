@@ -1,14 +1,14 @@
 ![hello there](https://www.ladbible.com/cdn-cgi/image/width=1200,quality=70,format=jpeg,fit=contain,dpr=1/https%3A%2F%2Fs3-images.ladbible.com%2Fs3%2Fcontent%2F792a2e626064e5c4ac1f3b781931ae1b.png)
 # Hello there 👋
 
-I'm learning about GitHub and Markdown.
+I'm learning about GitHub and markdown.
 
 Resources
-* https://my.ine.com/bootcamps/a8897eda-4c14-464b-b40a-0b6aaf25afa7
-* https://hackmd.io/
-* https://www.markdownguide.org/cheat-sheet/
-* https://visualstudiomagazine.com/articles/2021/08/31/github-vs-code.aspx
-* https://stackoverflow.com/questions/107701/how-can-i-remove-ds-store-files-from-a-git-repository
+* [INE Bootcamp: GitHub for Everyone](https://my.ine.com/bootcamps/a8897eda-4c14-464b-b40a-0b6aaf25afa7)
+* [HackMD collaborative markdown editor](https://hackmd.io/)
+* [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
+* [Edit GitHub files in VS Code in one keystroke](https://visualstudiomagazine.com/articles/2021/08/31/github-vs-code.aspx)
+* [How to get rid of .DS_Store files in git repositories](https://code.likeagirl.io/how-to-get-rid-of-ds-store-and-node-modules-in-git-repositories-d37b8a391247)
 
 <!--
 **mattbogenberger/mattbogenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
