@@ -6,7 +6,7 @@ I'm learning about GitHub and Markdown.
 Resources
 * https://hackmd.io/
 * https://www.markdownguide.org/cheat-sheet/
-
+* https://visualstudiomagazine.com/articles/2021/08/31/github-vs-code.aspx
 
 <!--
 **mattbogenberger/mattbogenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
