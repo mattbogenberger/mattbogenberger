@@ -9,6 +9,7 @@ Resources
 * [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)
 * [GitHub keyboard shortcuts](https://docs.github.com/en/get-started/using-github/keyboard-shortcuts)
 * [How to get rid of .DS_Store files in git repositories](https://code.likeagirl.io/how-to-get-rid-of-ds-store-and-node-modules-in-git-repositories-d37b8a391247)
+* [GitHub CLI](https://cli.github.com)
 
 <!--
 **mattbogenberger/mattbogenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
