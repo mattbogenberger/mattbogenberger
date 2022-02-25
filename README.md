@@ -17,6 +17,11 @@ Resources
 
 Hacker news
 <!--START_SECTION:feed-->
+* [Unauthenticated Dumping of Usernames via Cisco Unified Call Manager (CUCM)](https:&#x2F;&#x2F;www.n00py.io&#x2F;2022&#x2F;01&#x2F;unauthenticated-dumping-of-usernames-via-cisco-unified-call-manager-cucm&#x2F;)
+* [Adding DCSync Permissions from Linux](https:&#x2F;&#x2F;www.n00py.io&#x2F;2022&#x2F;01&#x2F;adding-dcsync-permissions-from-linux&#x2F;)
+* [Resetting Expired Passwords Remotely](https:&#x2F;&#x2F;www.n00py.io&#x2F;2021&#x2F;09&#x2F;resetting-expired-passwords-remotely&#x2F;)
+* [Dumping Plaintext RDP credentials from svchost.exe](https:&#x2F;&#x2F;www.n00py.io&#x2F;2021&#x2F;05&#x2F;dumping-plaintext-rdp-credentials-from-svchost-exe&#x2F;)
+* [The Dangers of Endpoint Discovery in VIPRE Endpoint Security](https:&#x2F;&#x2F;www.n00py.io&#x2F;2020&#x2F;12&#x2F;the-dangers-of-endpoint-discovery-in-vipre-endpoint-security&#x2F;)
 <!--END_SECTION:feed-->
 
 <!--
