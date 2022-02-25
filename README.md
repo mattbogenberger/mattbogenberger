@@ -11,6 +11,8 @@ Resources
 * [How to get rid of .DS_Store files in git repositories](https://code.likeagirl.io/how-to-get-rid-of-ds-store-and-node-modules-in-git-repositories-d37b8a391247)
 * [GitHub CLI](https://cli.github.com)
 * [Trunk Based Development](https://trunkbaseddevelopment.com)
+* [Continuous Integration and Continuous Delivery (CI/CD)](https://resources.github.com/ci-cd/)
+* [About continuous integration](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration)
 
 <!--
 **mattbogenberger/mattbogenberger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
