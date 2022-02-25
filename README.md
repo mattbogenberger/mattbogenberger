@@ -15,7 +15,7 @@ Resources
 * [Continuous Integration and Continuous Delivery (CI/CD)](https://resources.github.com/ci-cd/)
 * [About continuous integration](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration)
 
-Hacker news:
+Hacker news
 <!--START_SECTION:feed-->
 <!--END_SECTION:feed-->
 
