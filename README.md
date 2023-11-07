@@ -15,6 +15,10 @@ Resources
 * [Continuous Integration and Continuous Delivery (CI/CD)](https://resources.github.com/ci-cd/)
 * [About continuous integration](https://docs.github.com/en/actions/automating-builds-and-tests/about-continuous-integration)
 
+Tradecraft
+* [HackTricks](https://book.hacktricks.xyz/)
+* [The Hacker Recipes](https://www.thehacker.recipes/)
+
 Hacker news
 <!--START_SECTION:feed-->
 * [Unauthenticated Dumping of Usernames via Cisco Unified Call Manager (CUCM)](https:&#x2F;&#x2F;www.n00py.io&#x2F;2022&#x2F;01&#x2F;unauthenticated-dumping-of-usernames-via-cisco-unified-call-manager-cucm&#x2F;)
