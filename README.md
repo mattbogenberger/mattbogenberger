@@ -18,6 +18,7 @@ Resources
 Tradecraft
 * [HackTricks](https://book.hacktricks.xyz/)
 * [The Hacker Recipes](https://www.thehacker.recipes/)
+* [Red Team Notes](https://www.ired.team)
 * [AppSecExplained](https://appsecexplained.gitbook.io/appsecexplained/)
 
 Hacker news
